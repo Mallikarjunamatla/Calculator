@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+# Simple Calculator
+
+<object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" type="image/svg+xml"></object>
+
+<object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" ></object>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
