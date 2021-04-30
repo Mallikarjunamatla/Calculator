@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 # Simple Calculator
-<iframe src="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="focused-oskar-z0jbt"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-  ></iframe>
+
+<object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" type="image/svg+xml"></object>
+
+<object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" ></object>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
