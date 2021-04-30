@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # Simple Calculator
 
-<object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" type="image/svg+xml"></object>
+<object data="https://github.com/Mallikarjunamatla/Calculator/blob/main/public/Calculator.png" type="image/svg+xml"></object>
 
 <object data="https://codesandbox.io/embed/focused-oskar-z0jbt?fontsize=14&hidenavigation=1&theme=dark" ></object>
 
