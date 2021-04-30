@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# Simple Calculator
+# A Simple Calculator
 
 <img src="https://github.com/Mallikarjunamatla/Calculator/blob/main/public/Calculator.png" />
 
